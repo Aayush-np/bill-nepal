@@ -13,7 +13,7 @@ _IRD/CBMS-compliant VAT invoicing · Offline-first KOT kitchen flow · Bilingual
 [![Zustand](https://img.shields.io/badge/Zustand-5-453c39?style=flat-square)](https://github.com/pmndrs/zustand)
 [![Motion](https://img.shields.io/badge/Motion-12-ff0055?style=flat-square)](https://motion.dev)
 
-**[Live Demo](https://billnepal.vercel.app)** · **[Report Bug](../../issues)** · **[Request Feature](../../issues)**
+**[Live Demo](https://bill-nepal.vercel.app/)** · **[Report Bug](../../issues)** · **[Request Feature](../../issues)**
 
 </div>
 
