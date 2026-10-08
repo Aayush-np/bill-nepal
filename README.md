@@ -160,8 +160,8 @@ src/
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/billnepal.git
-cd billnepal
+git clone https://github.com/Aayush-np/bill-nepal.git
+cd bill-nepal
 npm install
 npm run dev        # → http://localhost:5173
 ```
